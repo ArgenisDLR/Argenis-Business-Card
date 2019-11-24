@@ -3,4 +3,5 @@ Decided to keep this around when people ask me for my business card, instead I s
 
 ## DEMO
 
-![](images/businessCard.png)
+<img src="images/pics.png" width="400"/>
+
