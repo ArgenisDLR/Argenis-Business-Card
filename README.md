@@ -3,5 +3,5 @@ Decided to keep this around when people ask me for my business card, instead I s
 
 ## DEMO
 
-<img src="images/pics.png" width="400"/>
+<img src="images/img1.png" width="400"/>
 
