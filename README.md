@@ -5,3 +5,5 @@ Decided to keep this around when people ask me for my business card, instead I s
 
 <img src="images/img1.png" width="400"/>
 
+### Tech Stack 
+- SwiftUI 
